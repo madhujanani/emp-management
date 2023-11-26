@@ -1,0 +1,13 @@
+table, th, td{
+    margin: 50px auto;
+    border: 1px solid;
+    background-color: beige;
+}
+
+body{
+    text-align: center;
+}
+button{
+    /* background-color:rgb(72, 172, 179); */
+    background-color:beige;
+}

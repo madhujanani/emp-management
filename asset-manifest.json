@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emp-management/static/css/main.546e1703.css",
+    "main.js": "/emp-management/static/js/main.72aa09ab.js",
+    "static/js/787.2f041521.chunk.js": "/emp-management/static/js/787.2f041521.chunk.js",
+    "static/media/logo.svg": "/emp-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emp-management/index.html",
+    "main.546e1703.css.map": "/emp-management/static/css/main.546e1703.css.map",
+    "main.72aa09ab.js.map": "/emp-management/static/js/main.72aa09ab.js.map",
+    "787.2f041521.chunk.js.map": "/emp-management/static/js/787.2f041521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.546e1703.css",
+    "static/js/main.72aa09ab.js"
+  ]
+}
